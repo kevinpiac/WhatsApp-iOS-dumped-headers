@@ -28,4 +28,3 @@
 + (id)encryptionKeyFromSalt:(id)arg1 encodedSecret:(id)arg2 phoneNumberSecret:(id)arg3;
 
 @end
-

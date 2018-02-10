@@ -21,4 +21,3 @@
 - (id)initWithPublicKey:(id)arg1 privateKey:(id)arg2;
 
 @end
-
